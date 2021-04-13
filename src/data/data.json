@@ -1,0 +1,226 @@
+[
+  {
+    "ProgramTitle": "Steelers Tonight!",
+    "ProgramGenre": "Sports",
+    "ProgramNetwork": "CBS",
+    "ViewerHometown": "Pittsburgh",
+    "NumberofViewers": 1000,
+    "date": "April"
+  },
+  {
+    "ProgramTitle": "Steelers Tonight!",
+    "ProgramGenre": "Sports",
+    "ProgramNetwork": "CBS",
+    "ViewerHometown": "New York",
+    "NumberofViewers": 200,
+    "date": "April"
+  },
+  {
+    "ProgramTitle": "Steelers Tonight!",
+    "ProgramGenre": "Sports",
+    "ProgramNetwork": "CBS",
+    "ViewerHometown": "Boston",
+    "NumberofViewers": 50,
+    "date": "April"
+  },
+  {
+    "ProgramTitle": "Steelers Tonight!",
+    "ProgramGenre": "Sports",
+    "ProgramNetwork": "CBS",
+    "ViewerHometown": "Cleveland",
+    "NumberofViewers": 5,
+    "date": "April"
+  },
+  {
+    "ProgramTitle": "The Dawg Pound",
+    "ProgramGenre": "Sports",
+    "ProgramNetwork": "ABC",
+    "ViewerHometown": "Pittsburgh",
+    "NumberofViewers": 7,
+    "date": "April"
+  },
+  {
+    "ProgramTitle": "The Dawg Pound",
+    "ProgramGenre": "Sports",
+    "ProgramNetwork": "ABC",
+    "ViewerHometown": "New York",
+    "NumberofViewers": 100,
+    "date": "April"
+  },
+  {
+    "ProgramTitle": "The Dawg Pound",
+    "ProgramGenre": "Sports",
+    "ProgramNetwork": "ABC",
+    "ViewerHometown": "Boston",
+    "NumberofViewers": 80,
+    "date": "April"
+  },
+  {
+    "ProgramTitle": "The Dawg Pound",
+    "ProgramGenre": "Sports",
+    "ProgramNetwork": "ABC",
+    "ViewerHometown": "Cleveland",
+    "NumberofViewers": 850,
+    "date": "April"
+  },
+  {
+    "ProgramTitle": "The Expanse",
+    "ProgramGenre": "Science Fiction",
+    "ProgramNetwork": "SyFy",
+    "ViewerHometown": "Pittsburgh",
+    "NumberofViewers": 200,
+    "date": "April"
+  },
+  {
+    "ProgramTitle": "The Expanse",
+    "ProgramGenre": "Science Fiction",
+    "ProgramNetwork": "SyFy",
+    "ViewerHometown": "New York",
+    "NumberofViewers": 750,
+    "date": "April"
+  },
+  {
+    "ProgramTitle": "The Expanse",
+    "ProgramGenre": "Science Fiction",
+    "ProgramNetwork": "SyFy",
+    "ViewerHometown": "Boston",
+    "NumberofViewers": 500,
+    "date": "April"
+  },
+  {
+    "ProgramTitle": "The Expanse",
+    "ProgramGenre": "Science Fiction",
+    "ProgramNetwork": "SyFy",
+    "ViewerHometown": "Cleveland",
+    "NumberofViewers": 225,
+    "date": "April"
+  },
+  {
+    "ProgramTitle": "Star Trek Discovery",
+    "ProgramGenre": "Science Fiction",
+    "ProgramNetwork": "CBS",
+    "ViewerHometown": "Pittsburgh",
+    "NumberofViewers": 175,
+    "date": "April"
+  },
+  {
+    "ProgramTitle": "Star Trek Discovery",
+    "ProgramGenre": "Science Fiction",
+    "ProgramNetwork": "CBS",
+    "ViewerHometown": "New York",
+    "NumberofViewers": 700,
+    "date": "April"
+  },
+  {
+    "ProgramTitle": "Star Trek Discovery",
+    "ProgramGenre": "Science Fiction",
+    "ProgramNetwork": "CBS",
+    "ViewerHometown": "Boston",
+    "NumberofViewers": 400,
+    "date": "April"
+  },
+  {
+    "ProgramTitle": "Star Trek Discovery",
+    "ProgramGenre": "Science Fiction",
+    "ProgramNetwork": "CBS",
+    "ViewerHometown": "Cleveland",
+    "NumberofViewers": 200,
+    "date": "April"
+  },
+  {
+    "ProgramTitle": "Twilight Zone",
+    "ProgramGenre": "Science Fiction",
+    "ProgramNetwork": "CBS",
+    "ViewerHometown": "Pittsburgh",
+    "NumberofViewers": 100,
+    "date": "April"
+  },
+  {
+    "ProgramTitle": "Twilight Zone",
+    "ProgramGenre": "Science Fiction",
+    "ProgramNetwork": "CBS",
+    "ViewerHometown": "New York",
+    "NumberofViewers": 500,
+    "date": "April"
+  },
+  {
+    "ProgramTitle": "Twilight Zone",
+    "ProgramGenre": "Science Fiction",
+    "ProgramNetwork": "CBS",
+    "ViewerHometown": "Boston",
+    "NumberofViewers": 200,
+    "date": "April"
+  },
+  {
+    "ProgramTitle": "Twilight Zone",
+    "ProgramGenre": "Science Fiction",
+    "ProgramNetwork": "CBS",
+    "ViewerHometown": "Cleveland",
+    "NumberofViewers": 100,
+    "date": "April"
+  },
+  {
+    "ProgramTitle": "Crime Patrol",
+    "ProgramGenre": "Mystery",
+    "ProgramNetwork": "ABC",
+    "ViewerHometown": "Pittsburgh",
+    "NumberofViewers": 800,
+    "date": "April"
+  },
+  {
+    "ProgramTitle": "Crime Patrol",
+    "ProgramGenre": "Mystery",
+    "ProgramNetwork": "ABC",
+    "ViewerHometown": "New York",
+    "NumberofViewers": 1200,
+    "date": "April"
+  },
+  {
+    "ProgramTitle": "Crime Patrol",
+    "ProgramGenre": "Mystery",
+    "ProgramNetwork": "ABC",
+    "ViewerHometown": "Boston",
+    "NumberofViewers": 1000,
+    "date": "April"
+  },
+  {
+    "ProgramTitle": "Crime Patrol",
+    "ProgramGenre": "Mystery",
+    "ProgramNetwork": "ABC",
+    "ViewerHometown": "Cleveland",
+    "NumberofViewers": 850,
+    "date": "April"
+  },
+  {
+    "ProgramTitle": "Forensic Files",
+    "ProgramGenre": "Mystery",
+    "ProgramNetwork": "CBS",
+    "ViewerHometown": "Pittsburgh",
+    "NumberofViewers": 750,
+    "date": "April"
+  },
+  {
+    "ProgramTitle": "Forensic Files",
+    "ProgramGenre": "Mystery",
+    "ProgramNetwork": "CBS",
+    "ViewerHometown": "New York",
+    "NumberofViewers": 1050,
+    "date": "April"
+  },
+  {
+    "ProgramTitle": "Forensic Files",
+    "ProgramGenre": "Mystery",
+    "ProgramNetwork": "CBS",
+    "ViewerHometown": "Boston",
+    "NumberofViewers": 1100,
+    "date": "April"
+  },
+  {
+    "ProgramTitle": "Forensic Files",
+    "ProgramGenre": "Mystery",
+    "ProgramNetwork": "CBS",
+    "ViewerHometown": "Cleveland",
+    "NumberofViewers": 700,
+    "date": "April"
+  }
+]
